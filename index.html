@@ -3,10 +3,38 @@ layout: archive
 title: About me 
 author_profile: true
 ---
-Hi visitor! I'm Stefano and am PhD Student at Milano University. My central research topic is based on the CMB (Cosmic Microwave Background) radiation observation. Actually, the CMB observation is not a specific area, but concern very different fields.
-<br>
-Around the concept of the CMB observation we can find different people that operating in different field (i.e. mechanical manufactures of the telescope components, theoretical studies of the scanning strategy, theoretical and experimental modelization of the systematic errors), and they makes the CMB observation possible.
-<br>
-I have worked in sperimental CMB group of Milan since April 2018, and recently, I have been start studing the atmospheric influence in the ground-based CMB observations. I have focused my attenctions on the case of STRIP (The low frequency conterpart of the whole CMB experiment LSPE, devoted to observe the CMB polarization on large angular scales). The STRIP telescope will be deploy in late 2020 at Observatorio del Teide - Tenerife.
-<br>
-For the atmospheric forecast I use C++, python3 and recently I have been start exploring the Julia language. If you have time, you will find in this website several snippets, examples and personal opinions about this new programming language.
+
+This company is born with a very challenging target: to be the central point for the scientist involved in the CMB Ground-Based observation. Is well known that the CMB ground-based missions have to deal with a very hard-model, and moving (by the wind shears) foreground, represented by the atmosphere. The water-vapor and Oxygen emission lines represent an extra optical load that shines our sensors with the consequence of loss in sensitivity.
+
+This spurious optical load is linked to the air-mass along the telescope line of the sight and follow the well-known cosecant law accordingly with the angular altitude of the observed point. The air-mass dependence is not the only thermal gradient that we may observe. Actually, even for CES (Constant Elevation Scans), the atmosphere is not frozen.
+
+Following the Kolmogorov's theory of turbulence, the atmosphere has a lot of spatial structures, and those structures are moving, carried by the wind-shears, in front of the telescope line of sight.
+
+The whole process, introduce a spurious 1/f like noise in the TOD that in general is very difficult to identify and remove.
+
+
+For these reasons here you may find a lot of idees, notes, and numerical approach to this very challenging problem.
+
+
+This company presents three different code bucket that they are represented by three different repositories.
+
+
+1 cmbs: A set of routines that are coded in order to perform a comprehensive simulation of your telescope and generate a realistic TOD with whole source noise: instrumental and atmospheric 1/f and white noise
+
+2. cmbm: The mapmaker routine based on a lot of different approach: GLS, destriper, with a lot of preconditioners
+
+
+3. note: a repository of stuff, snippets, notes and so on....
+
+
+Nowdays, there are only a lot of good-ideas.
+
+
+
+
+
+
+
+
+
+
