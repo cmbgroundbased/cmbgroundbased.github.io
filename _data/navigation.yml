@@ -1,0 +1,10 @@
+# main links
+main:
+   - title: "Item1"
+     url: /res-act/
+   - title: "Item2"
+     url: /give-talk/
+   - title: "Item3"
+     url: /free-time/
+   - title: "Item4"
+     url: /me/
