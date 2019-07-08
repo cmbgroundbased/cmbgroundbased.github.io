@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "CMB4G - The helper page for Ground-Based CMB observations"
+title                    : "Ground-Based CMB observations"
 title_separator          : "-"
 name                     : "CMB4G Team"
 description              : "Description of my Research Activity"
