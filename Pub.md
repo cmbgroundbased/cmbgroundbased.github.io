@@ -1,6 +1,6 @@
 ---
 layout: single
-title: How to give a technical presentation
+title: Pubblications
 author_profile: true
 ---
 

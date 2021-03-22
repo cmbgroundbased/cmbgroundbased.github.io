@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/Item1/</loc>
+<loc>http://localhost:4000/Cont/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/Item2/</loc>
+<loc>http://localhost:4000/Eve/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/Item3/</loc>
+<loc>http://localhost:4000/Proj/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/Item4/</loc>
+<loc>http://localhost:4000/Pub/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Sof/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
@@ -20,5 +23,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/year-archive/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/SECURITY/</loc>
 </url>
 </urlset>
