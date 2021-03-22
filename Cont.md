@@ -1,8 +1,5 @@
 ---
 layout: single
-title: My free time
+title: Contacts
 author_profile: true
 ---
-
-
-

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: About me - Informal notes about my life
+title: Software
 author_profile: true
 ---
 
