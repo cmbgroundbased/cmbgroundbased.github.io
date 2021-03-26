@@ -77,12 +77,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "cmb4g"
-  about            : "/about_this_blog_(and_its_author)/"
+  name             : "CMB for Ground Based"
+  about            : 
   avatar           : "/assets/img/inle.png"
   bio              : ""
   location         : 
-  email            : "stefano.mandelli@unimi.it"
+  email            : stefano.mandelli@unimi.it
   uri              :
   bitbucket        :
   codepen          :
@@ -90,7 +90,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "cmb4g"
+  github           : algebrato
   google_plus      :
   keybase          :
   instagram        :
@@ -101,7 +101,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : AstroMandelli
   vine             :
   weibo            :
   xing             :
@@ -236,11 +236,11 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: Contacts
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments:  true
       share: true
