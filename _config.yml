@@ -17,8 +17,8 @@ minimal_mistakes_skin    : "air" # , "air" "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 title                    : "CMB Ground Based"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+title_separator          : ""
+subtitle                 :  #site tagline that appears below site title in masthead
 name                     : "-"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -94,8 +94,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "CMB4G"
-  avatar           : "img/logo.png"
+  name             : #""
+  avatar           : #""
   bio              : ""
   location         : #""
   email            :
@@ -118,6 +118,7 @@ author:
     - #label: "Instagram"
       #icon: "fab fa-fw fa-instagram"
       #url: "https://instagram.com/"
+      
 
 # Site Footer
 footer:
@@ -125,19 +126,19 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: https://fooo.it
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+    - #label: "Facebook"
+      #icon: "fab fa-fw fa-facebook-square"
       url: https://fooo.it
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://fooo.it
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
+    #- label: "GitLab"
+     # icon: "fab fa-fw fa-gitlab"
       url: https://fooo.it
-    - label: "Bitbucket"
+    - #label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       url: https://fooo.it
-    - label: "Instagram"
+    - #label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: https://fooo.it
 
@@ -275,8 +276,16 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: true
       comments: # true
       share: true
       related: true
+  # _docs
+  - scope:
+      path:
+      type: list
+    values:
+      sidebar:
+       nav: "list"
+    

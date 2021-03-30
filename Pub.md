@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Pubblications
+title: 
 author_profile: true
 ---
 

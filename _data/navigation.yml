@@ -1,6 +1,6 @@
-# main links
+#main links
 #main:
- # - title: "Quick-Start Guide"
+    #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
@@ -10,15 +10,15 @@
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
- # main links
+  #main links
 main:
-  #  -title: "Progetto"
-  #    url: /Proj/
-  #  - title: "Pubblicazioni"
-  #    url: /Pub/
-  #  - title: "Software"
-  #    url: /Sof/
-  #  - title: "Eventi"
-  #    url: /Eve/
-  #  - title: "Contatti"
-  #    url: /Cont/
+  - title: "Project"
+    url: "/Proj/"
+  - title: "Pubblicazioni"
+    url: "/Pub/"
+  - title: "Software"
+    url: "/Sof/"
+  - title: "Envents"
+    url: "/Eve/"  
+  - title: "Contacts"
+    url: "/Cont/"     
