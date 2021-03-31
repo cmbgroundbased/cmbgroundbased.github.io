@@ -1,5 +1,5 @@
 <style>
-    a {
+  a {
     display: block;
     margin-bottom: 5px;
     padding-right: 5px;
@@ -9,7 +9,6 @@
     font-size: $type-size-5;
     text-decoration: underline;
   }
-
   ul {
     padding: 10px;
     list-style-type: none;
@@ -19,9 +18,19 @@
     white-space: nowrap;
   }
 
+@media  screen and (min-width: 0px) and (max-width: 400px) {
+  a {
+    display: block;
+  }
+}
+
+@media screen and (min-width: 401px) and (max-width: 1024px) {
+  a {
+    display: none;
+  }
+}
+
 </style>
-
-
 
 
 <div class= "sidebar sticky">
