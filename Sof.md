@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Software
+title: 
 author_profile: true
 ---
 

@@ -22,7 +22,7 @@
     display: flex;
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
-    justify-content: space-between;
+    justify-content: righ;
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
@@ -40,7 +40,7 @@
 }
 
 .site-logo img {
-  max-height: 2rem;
+  max-height: 6rem;
 }
 
 .site-title {
@@ -50,6 +50,7 @@
   -ms-flex-item-align: center;
   align-self: center;
   font-weight: bold;
+  padding-left: 100px;
   // z-index: 20;
 }
 

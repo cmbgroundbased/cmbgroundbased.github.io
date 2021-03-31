@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Events
+title: 
 author_profile: true
 ---
 
