@@ -85,7 +85,6 @@ author:
   bio              : "None"
   location         : "None"
   email            : "None"
-
 # Site Footer
 footer:
   links:
@@ -95,7 +94,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://fooo.it
-
 
 # Reading Files
 include:
