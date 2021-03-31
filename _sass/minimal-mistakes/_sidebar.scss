@@ -70,6 +70,11 @@
     }
   }
 }
+@media screen and (min-width: 401px) and (max-width: 1024px) {
+  .sidebar {
+    display: none;
+  }
+}
 
 .sidebar__right {
   margin-bottom: 1em;
