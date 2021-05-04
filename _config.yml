@@ -221,5 +221,5 @@ compress_html:
 
 collections:
   authors:
-  output: true
+    output: true
 
