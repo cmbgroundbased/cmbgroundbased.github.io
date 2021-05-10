@@ -177,7 +177,8 @@
   -ms-flex-align: center;
   align-items: center;
   min-height: $nav-height;
-  background: $background-color;
+  // background: $background-color;
+  background-color: #0092ca;
 
   a {
     display: block;
@@ -190,15 +191,16 @@
     &:hover {
       color: $masthead-link-color-hover;
     }
-
-    &.site-logo {
-      margin-left: 0;
-      margin-right: 0.5rem;
+    @media (min-width:991px) {
+      &.site-logo {
+        margin-left: 0;
+        margin-right: 0.5rem;
+      }
     }
 
     &.site-title {
       margin-left: 0;
-      color: #0092ca;
+      color: rgb(255, 255, 255);
       font-size: xx-large;  
     }
   }
