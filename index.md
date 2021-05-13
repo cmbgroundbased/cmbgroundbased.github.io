@@ -1,6 +1,6 @@
 ---
 layout: single
-title:
+title: ""
 date: 2021-05-13
 author_profile: true
 ---
