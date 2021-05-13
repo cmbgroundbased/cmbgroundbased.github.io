@@ -5,7 +5,7 @@ date: 2021-05-13
 author_profile: true
 ---
 
-## The *Cosmic Background Radiation*: the first picture of our Universe
+## The *Cosmic Microwave Background radiation*: the first picture of our Universe
 The *Cosmic Microwave Background* radiation is one of the most important observable to probe the early stages of our Universe. The photons that constitue this radiation started to propagate in the free space 380.000 years after the Big Bang. Before this era, the photon were trapped in the primordial plasma by continuos Thomson scattering. When the temperature and the density of the Universe were low enough, the firsts phothons started to propagate in the free space. This photons consitute the CMB radiation that it is actually the first picture of our Universe when it was only 380.000. The wavelenght of this photons has been strached by the expansion of the Universe, and now, we can observe this radiation as a black-body emission at the temperature of 2.7255K, that peaks on the microwave frequencies.
 
 ## The CMB oservation and the atmospheric effects for ground-based telescope
